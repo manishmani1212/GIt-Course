@@ -1,2 +1,2 @@
 # GIt-Course
-<h1>Git: </h1><br> <h6>Git is a version Control System</h6> 
+<h2>Git: </h2><br> <h4>Git is a version Control System</h4> 
